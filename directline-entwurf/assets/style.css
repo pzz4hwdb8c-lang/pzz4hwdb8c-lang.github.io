@@ -432,3 +432,4 @@ footer.site a{transition:color .3s}footer.site a:hover{color:#fff;text-decoratio
 .band-inner p{color:rgba(255,255,255,.85);max-width:60ch}
 .band-inner .btn{background:#fff;color:var(--brand);position:relative;z-index:1}
 @media (max-width:600px){.band-inner{padding:30px 26px}.band{padding-bottom:70px}}
+.em{font-style:normal;color:var(--brand)}.phero.img .em{color:#f2c9d1}
